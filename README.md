@@ -1,4 +1,4 @@
-# Hi there, I'm Vishal 👋
+# Hello, I'm Vishal 👋
 
 ### **Project Manager & Senior Cloud Integration Architect**
 **Microsoft Certified Technology Specialist (MCTS)** with over **15+ years** of extensive experience architecting, developing, and delivering scalable cloud-based and on-premises enterprise solutions.
