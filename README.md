@@ -4,8 +4,6 @@
 
 My background covers enterprise integration delivery from requirements and technical design through development, testing, deployment and production support.
 
-My core experience spans **Azure Logic Apps, Azure Functions, Azure Service Bus, Microsoft BizTalk Server, EDI, REST, JSON, XSD, XSLT, SQL Server** and SAP connected integrations.
-
 <a href="https://www.linkedin.com/in/vishal-sharma-20a5b5317/" target="_blank"><img src="https://github.com/vpng2019/vpng2019-portfolio/raw/main/assets/linkedin.svg" alt="LinkedIn" width="30" height="30"></a>&nbsp;&nbsp;
 <a href="https://github.com/vpng2019" target="_blank"><img src="https://cdn.simpleicons.org/github" alt="GitHub" width="30" height="30"></a>&nbsp;&nbsp;
 <a href="mailto:vpng2019@gmail.com">Email</a>
