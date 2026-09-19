@@ -7,7 +7,7 @@ My background covers enterprise integration delivery from requirements and techn
 My core experience spans **Azure Logic Apps, Azure Functions, Azure Service Bus, Microsoft BizTalk Server, EDI, REST, JSON, XSD, XSLT, SQL Server** and SAP connected integrations.
 
 ---
-### Core Competencies & Tech Stack
+### 🌐 Core Competencies & Tech Stack
 
 | Area | Focus |
 | --- | --- |
