@@ -1,4 +1,4 @@
-# Hello, I'm Vishal 👋
+# Vishal Sharma - Senior Cloud Integration Architect & Project Manager
 
 **Microsoft Certified Technology Specialist (MCTS)** with over **15+ years** of in-depth IT experience in architecting, developing, and delivering scalable cloud-based and on-premises enterprise solutions using **Microsoft Azure and Microsoft BizTalk Server**.
 
@@ -50,14 +50,10 @@ Worked across **global geographies including Europe, the Middle East, and India*
 
 ### 📁 Featured Projects
 
-1. **[Azure-LogicApp-ServiceBus-Integration](https://github.com/vpng2019/Azure-LogicApp-ServiceBus-Integration)**  
-   *Purchase Order (PO) processing workflow.*
-2. **[Azure HTTP Mapper](https://github.com/vpng2019/azure-http-mapper)**  
-   *Integration / API transformation.*
-3. **[BizTalk SQL Typed Polling](https://github.com/vpng2019/biztalk-sql-employee-data-polling)**  
-   *Employee Data Integration.*
-4. **[BizTalk EDI Processing](https://github.com/vpng2019/biztalk-x12-edi-integration)**  
-   *Outbound EDI processing using X12 standards.*
+1. **[Azure-LogicApp-ServiceBus-Integration](https://github.com/vpng2019/Azure-LogicApp-ServiceBus-Integration)** — Purchase Order (PO) processing and integration workflow.
+2. **[Azure HTTP Mapper](https://github.com/vpng2019/azure-http-mapper)** — API integration and data transformation.
+3. **[BizTalk SQL Typed Polling](https://github.com/vpng2019/biztalk-sql-employee-data-polling)** — Employee data integration using BizTalk Server and SQL.
+4. **[BizTalk EDI Processing](https://github.com/vpng2019/biztalk-x12-edi-integration)** — Outbound EDI processing using X12 standards.
 
 ---
 
@@ -126,6 +122,8 @@ Worked across **global geographies including Europe, the Middle East, and India*
 ### 🎓 Education
 
 * **Bachelors in Computer Science Engineering** (2003–2007)
+  
+---
 
 ### 🏆 Certifications
 
@@ -133,6 +131,8 @@ Worked across **global geographies including Europe, the Middle East, and India*
 * **Microsoft Certified: Developing Microsoft Azure Solutions**
 * **Microsoft Certified Professional (MCP)**
 * **Microsoft Azure AI Essentials**
+  
+---
 
 ## Beyond Technology
 
@@ -145,6 +145,7 @@ Outside of work, I enjoy exploring new places, learning new languages, and spend
 > **Ik leer Nederlands en ik spreek een beetje Nederlands.**
 
 **Travel** — I enjoy travelling and exploring new places. Having spent time in Europe, I have travelled extensively across **Belgium, the Netherlands, and Germany**, discovering new cities, landmarks, and different local cultures.
+
 ---
 
 <a href="https://www.linkedin.com/in/vishal-sharma-20a5b5317/" target="_blank"><img src="https://github.com/vpng2019/vpng2019-portfolio/raw/main/assets/linkedin.svg" alt="LinkedIn" width="30" height="30"></a>&nbsp;&nbsp;
