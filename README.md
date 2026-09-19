@@ -1,7 +1,7 @@
 # Hello, I'm Vishal 👋
 
 ### **Senior Integration Engineer & Project Manager**
-**Microsoft Certified Technology Specialist (MCTS)** with over **15+ years** of extensive IT experience in architecting, developing, and delivering scalable cloud-based and on-premises enterprise solutions using **Microsoft Azure and Microsoft BizTalk Server**.
+**Microsoft Certified Technology Specialist (MCTS)** with over **15+ years** of in-depth IT experience in architecting, developing, and delivering scalable cloud-based and on-premises enterprise solutions using **Microsoft Azure and Microsoft BizTalk Server**.
 
 ---
 
