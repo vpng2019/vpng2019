@@ -129,6 +129,14 @@ Worked across **global geographies including Europe, the Middle East, and India*
 * **Microsoft Certified Professional (MCP)**
 * **Microsoft Azure AI Essentials**
 
+## Beyond Technology
 
+Outside of work, I enjoy exploring new places, learning new languages, and spending time outdoors.
 
+**Cycling** — I enjoy riding my bicycle in my free time and discovering new routes.
 
+**Learning Dutch** — I enjoy learning languages and am currently learning Dutch in my free time. It has been a rewarding way to discover a new language and connect more closely with the culture.
+
+> **Ik leer Nederlands en ik spreek een beetje Nederlands.**
+
+**Travel** — I enjoy travelling and exploring new places. Having spent time in Europe, I have travelled extensively across **Belgium, the Netherlands, and Germany**, discovering new cities, landmarks, and different local cultures.
