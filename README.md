@@ -25,16 +25,14 @@ My core experience spans **Azure Logic Apps, Azure Functions, Azure Service Bus,
 
 Worked across **global geographies including Europe, the Middle East, and India**, collaborating with diverse teams, international stakeholders, and business environments across different regions.
 
-**Europe**
-Belgium
+🌍 **EUROPE** — Belgium
 
-**Middle East**
-Dubai · Abu Dhabi
+🌍 **MIDDLE EAST** — Dubai · Abu Dhabi
 
-**India**
-Delhi · Gurgaon · Bangalore · Mumbai
+🌍 **INDIA** — Delhi · Gurgaon · Bangalore · Mumbai
 
 ---
+
 
 ### 🚀 Key Highlights
 
