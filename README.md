@@ -10,10 +10,17 @@ My core experience spans **Azure Logic Apps, Azure Functions, Azure Service Bus,
 
 ### 🌐 Core Competencies & Tech Stack
 
-* **Cloud & Middleware:** Microsoft Azure (Logic Apps, Function Apps, Service Bus, Application Insights), Microsoft BizTalk Server (2006 R2 – 2020)
-* **Integration Standards & Protocols:** EDI (X12, EDIFACT), EAI, RESTful APIs, JSON, XML/XSD, XSLT, SAP, BAM
-* **Languages & Databases:** C#.NET, SQL Server, Stored Procedures, XPath
-* **Leadership & Delivery:** Agile/Scrum, Stakeholder Management, Legacy Migration, Incident Response, Cross-functional Team Leadership
+### Core Competencies & Tech Stack
+
+| Area | Focus |
+| --- | --- |
+| **Cloud Integration** | Microsoft Azure Logic Apps, Function Apps, Service Bus, Application Insights |
+| **Microsoft BizTalk Server **| Orchestrations, Schemas, XSLT Maps, Pipelines, BAM, BRE,  EDI Integration, SAP Integration, SQL connectivity |
+| **Programming Languages & Databases** | C#.NET, SQL Server, Stored Procedures |
+| **Business Messaging **| EDI (X12, EDIFACT), SOAP services, WCF services, XML, CSV data formats |
+| **API Integration **| REST, HTTP, JSON, Enterprise Application Integration (EAI) |
+| **Solution Delivery **| SIT, UAT, production deployments, monitoring, troubleshooting and support |
+| **Leadership and Management** |  Agile/Scrum, Stakeholder Management, Legacy Migration, Incident Response, Cross-functional Team Leadership |
 
 ---
 
