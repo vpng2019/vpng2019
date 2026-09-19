@@ -120,7 +120,7 @@ Worked across **global geographies including Europe, the Middle East, and India*
 
 ### 🎓 Education
 
-* **Bachelors in Computer Science Engineering** *(2003–2007)*
+* **Bachelors in Computer Science Engineering** (2003–2007)
 
 ### 🏆 Certifications
 
@@ -128,6 +128,7 @@ Worked across **global geographies including Europe, the Middle East, and India*
 * **Microsoft Certified: Developing Microsoft Azure Solutions**
 * **Microsoft Certified Professional (MCP)**
 * **Microsoft Azure AI Essentials**
+
 
 
 
