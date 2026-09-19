@@ -3,7 +3,9 @@
 ### **Senior Integration Engineer & Project Manager**
 **Microsoft Certified Technology Specialist (MCTS)** with over **15+ years** of in-depth IT experience in architecting, developing, and delivering scalable cloud-based and on-premises enterprise solutions using **Microsoft Azure and Microsoft BizTalk Server**.
 
-My background covers enterprise integration delivery from requirements and technical design through development, testing, deployment and production support. My core experience spans **Azure Logic Apps, Azure Functions, Azure Service Bus, Microsoft BizTalk Server, EDI, REST, JSON, XSD, XSLT, SQL Server** and SAP connected integrations.
+My background covers enterprise integration delivery from requirements and technical design through development, testing, deployment and production support. 
+
+My core experience spans **Azure Logic Apps, Azure Functions, Azure Service Bus, Microsoft BizTalk Server, EDI, REST, JSON, XSD, XSLT, SQL Server** and SAP connected integrations.
 
 ---
 
