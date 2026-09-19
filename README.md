@@ -118,7 +118,16 @@ Worked across **global geographies including Europe, the Middle East, and India*
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education
+
+* **Bachelors in Computer Science Engineering** *(2003–2007)*
+
+### 🏆 Certifications
 
 * **Microsoft Certified Technology Specialist (MCTS)**
-* **Bachelors in Computer Science Engineering** (2007)
+* **Microsoft Certified: Developing Microsoft Azure Solutions**
+* **Microsoft Certified Professional (MCP)**
+* **Microsoft Azure AI Essentials**
+
+
+
