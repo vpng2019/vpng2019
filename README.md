@@ -1,12 +1,32 @@
 # Vishal Sharma - Senior Cloud Integration Architect & Project Manager
 
-**Microsoft Certified Technology Specialist (MCTS)** with over **15+ years** of in-depth IT experience in architecting, developing, and delivering scalable cloud-based and on-premises enterprise solutions using **Microsoft Azure and Microsoft BizTalk Server**.
+<a href="https://www.linkedin.com/in/vishal-sharma-20a5b5317/" target="_blank">
+  <img src="https://github.com/vpng2019/vpng2019-portfolio/raw/main/assets/linkedin.svg" alt="LinkedIn" width="32" height="32">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/vpng2019" target="_blank">
+  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="32" height="32">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:vpng2019@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="32" height="32">
+</a>
 
-My background covers enterprise integration delivery from requirements and technical design through development, testing, deployment and production support.
+**Microsoft Certified Technology Specialist (MCTS)** with **15+ years of IT experience** in architecting, developing, and delivering scalable **cloud-based and on-premises enterprise solutions** using **Microsoft Azure and Microsoft BizTalk Server**.
 
-<a href="https://www.linkedin.com/in/vishal-sharma-20a5b5317/" target="_blank"><img src="https://github.com/vpng2019/vpng2019-portfolio/raw/main/assets/linkedin.svg" alt="LinkedIn" width="30" height="30"></a>&nbsp;&nbsp;
-<a href="https://github.com/vpng2019" target="_blank"><img src="https://cdn.simpleicons.org/github" alt="GitHub" width="30" height="30"></a>&nbsp;&nbsp;
-<a href="mailto:vpng2019@gmail.com">Email</a>
+My experience spans the **full integration delivery lifecycle** — from **business requirements, solution architecture, and technical design through development, testing, deployment, production support, and continuous improvement**.
+
+* Designed and delivered complex **EDI integrations using X12 and EDIFACT standards**, enabling standardized and reliable data exchange with enterprise business partners.
+
+* Led **legacy-to-Azure modernization initiatives**, helping transform traditional integration landscapes into scalable cloud-based solutions
+
+In addition to my technical expertise, I have taken on **leadership and project delivery**
+
+* Led development teams and facilitated **cross-functional collaboration** among developers, architects, business analysts, vendors, and other stakeholders to support successful project delivery.
+
+* Supported **Agile/Scrum delivery** across Sprint Planning, Daily Scrum, Sprint Reviews, Retrospectives, and other project activities, helping maintain alignment across technical and business teams.
+
+* Led **product strategy and lifecycle activities** for an **AI-driven startup**
 
 ---
 
@@ -153,6 +173,14 @@ Outside of work, I enjoy exploring new places, learning new languages, and spend
 
 ---
 
-<a href="https://www.linkedin.com/in/vishal-sharma-20a5b5317/" target="_blank"><img src="https://github.com/vpng2019/vpng2019-portfolio/raw/main/assets/linkedin.svg" alt="LinkedIn" width="30" height="30"></a>&nbsp;&nbsp;
-<a href="https://github.com/vpng2019" target="_blank"><img src="https://cdn.simpleicons.org/github" alt="GitHub" width="30" height="30"></a>&nbsp;&nbsp;
-<a href="mailto:vpng2019@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/vishal-sharma-20a5b5317/" target="_blank">
+  <img src="https://github.com/vpng2019/vpng2019-portfolio/raw/main/assets/linkedin.svg" alt="LinkedIn" width="30" height="30">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/vpng2019" target="_blank">
+  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="30" height="30">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:vpng2019@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="30" height="30">
+</a>
