@@ -10,7 +10,7 @@
   <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="32" height="32">
 </a>
 
-# Vishal Sharma - Senior Cloud Integration Architect & Project Manager
+# Vishal Sharma - Senior Cloud Integration Specialist & Project Lead
 
 **Microsoft Certified Technology Specialist (MCTS)** with **15+ years of IT experience** in architecting, developing, and delivering scalable cloud based and on premises enterprise solutions using **Microsoft Azure and Microsoft BizTalk Server**.
 
@@ -80,14 +80,14 @@ Worked across **global geographies including Europe, the Middle East, and India*
 
 ### 💼 Professional Experience
 
-#### **NTT Data** — *Project Manager*
+#### **NTT Data** — *Senior Integration Cloud Specialist*
 `Jul 2025 – Mar 2026` | *India*
 * Managed day-to-day delivery and stakeholder alignment for cloud integration projects.
 * Orchestrated cross-functional teams to plan and execute the migration of Azure Function Apps from Python 3.9 to 3.12.
 * Worked closely with developers, data architects and business analysts to create robust, end to end integration strategies.
 * Oversaw SIT, UAT, production deployments, and post-go-live operational support.
 
-#### **Textify AI** — *Project Manager*
+#### **Textify AI** — *Senior Integration Cloud Specialist / Project Lead*
 `Sep 2024 – Jun 2025` | *India*
 * Led cross-functional Agile teams (Developers, AI Engineers, QA, UI/UX) delivering AI-driven products.
 * Facilitated Scrum ceremonies such as Sprint Planning, Daily Stand-ups, Retrospectives and maintained project risk registers.
