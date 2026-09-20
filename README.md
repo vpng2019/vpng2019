@@ -20,7 +20,7 @@ My experience spans the **full integration delivery lifecycle** — from **busin
 
 * Led **legacy-to-Azure modernization initiatives**, helping transform traditional integration landscapes into scalable cloud-based solutions
 
-In addition to my technical expertise, I have taken on **leadership and project delivery**
+### Leadership & Project Delivery
 
 * Led development teams and facilitated **cross-functional collaboration** among developers, architects, business analysts, vendors, and other stakeholders to support successful project delivery.
 
