@@ -174,7 +174,7 @@ Outside of work, I enjoy **cycling, learning languages, travelling, and explorin
 
 > **Ik leer Nederlands en ik spreek een beetje Nederlands.**
 
-**✈️ Travel** — I enjoy travelling and exploring new places, having travelled across **Belgium, the Netherlands, and Germany** and experiencing different cities and cultures.
+**✈️ Travel** — I have travelled across **Belgium, the Netherlands, and Germany**, discovering new cities and local cultures.
 
 ---
 
