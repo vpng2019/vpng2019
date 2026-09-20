@@ -82,6 +82,7 @@ Worked across **global geographies including Europe, the Middle East, and India*
 
 #### **NTT Data** — *Senior Integration Cloud Specialist*
 `Jul 2025 – Mar 2026` | *India*
+* Designed and developed **cloud-native applications** using **Azure Logic Apps and Azure Functions**, integrating with vendors including **Walmart US, Canada and Amazon UK, Europe**.
 * Managed day-to-day delivery and stakeholder alignment for cloud integration projects.
 * Orchestrated cross-functional teams to plan and execute the migration of Azure Function Apps from Python 3.9 to 3.12.
 * Worked closely with developers, data architects and business analysts to create robust, end to end integration strategies.
@@ -89,6 +90,7 @@ Worked across **global geographies including Europe, the Middle East, and India*
 
 #### **Textify AI** — *Senior Integration Cloud Specialist / Project Lead*
 `Sep 2024 – Jun 2025` | *India*
+* Designed and developed scalable **cloud-native Azure applications** for real-time processing of **structured and unstructured data (PDFs)**.
 * Led cross-functional Agile teams (Developers, AI Engineers, QA, UI/UX) delivering AI-driven products.
 * Facilitated Scrum ceremonies such as Sprint Planning, Daily Stand-ups, Retrospectives and maintained project risk registers.
 * Tracked roadmaps, resource allocation, and milestone dependencies to prevent delivery bottlenecks.
