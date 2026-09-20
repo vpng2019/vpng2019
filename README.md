@@ -166,17 +166,18 @@ Worked across **global geographies including Europe, the Middle East, and India*
 
 ## ✨ Personal Interests
 
-Outside of work, I enjoy **cycling, learning Dutch, travelling, and exploring new places**.
+Outside of work, I enjoy **cycling, learning languages, travelling, and exploring new places**.
 
 **🚴 Cycling** — Riding my bicycle in my free time and discovering new routes.
 
-**🇳🇱 Learning Dutch** — Currently learning Dutch and enjoying the opportunity to connect with the language and culture.
+**📚 Learning Languages** — Currently learning Dutch and exploring the culture through the language.
 
 > **Ik leer Nederlands en ik spreek een beetje Nederlands.**
 
-**✈️ Travel** — I enjoy travelling and exploring new places, having travelled across **Belgium, the Netherlands, and Germany** and experienced different cities and cultures.
+**✈️ Travel** — I enjoy travelling and exploring new places, having travelled across **Belgium, the Netherlands, and Germany** and experiencing different cities and cultures.
 
 ---
+
 
 <a href="https://www.linkedin.com/in/vishal-sharma-20a5b5317/" target="_blank">
   <img src="https://github.com/vpng2019/vpng2019-portfolio/raw/main/assets/linkedin.svg" alt="LinkedIn" width="30" height="30">
