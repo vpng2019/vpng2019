@@ -14,19 +14,20 @@
 
 **Microsoft Certified Technology Specialist (MCTS)** with **15+ years of IT experience** in architecting, developing, and delivering scalable cloud-based and on-premises enterprise solutions using **Microsoft Azure and Microsoft BizTalk Server**.
 
-My experience spans the **full integration delivery lifecycle** — from **business requirements, solution architecture, and technical design through development, testing, deployment, production support, and continuous improvement**.
+Experienced across the **full integration delivery lifecycle**, from requirements and solution design through development, testing, deployment, production support, and continuous improvement.
 
-* Designed and delivered complex **EDI integrations using X12 and EDIFACT standards**, enabling standardized and reliable data exchange with enterprise business partners.
+* Designed and delivered complex **EDI integrations using X12 and EDIFACT standards**, enabling standardized and reliable data exchange.
 
-* Led **legacy-to-Azure modernization initiatives**, helping transform traditional integration landscapes into scalable cloud-based solutions
+* Led **legacy-to-Azure modernization initiatives** to transform traditional integration landscapes into scalable cloud solutions.
 
 ### Leadership & Project Delivery
 
-* Led development teams and facilitated **cross-functional collaboration** among developers, architects, business analysts, vendors, and other stakeholders to support successful project delivery.
+* Facilitated **Agile/Scrum delivery**, including Sprint Planning, Daily Scrum, Sprint Reviews, and Retrospectives.
 
-* Supported **Agile/Scrum delivery** across Sprint Planning, Daily Scrum, Sprint Reviews, Retrospectives, and other project activities, helping maintain alignment across technical and business teams.
+* Successfully delivered projects across **Europe, the Middle East and India**, collaborating with international teams, clients, and stakeholders.
 
-* Led **product strategy and lifecycle activities** for an **AI-driven startup**
+* Led **product strategy and lifecycle activities** for an **AI-driven startup**.
+  
 
 ---
 
