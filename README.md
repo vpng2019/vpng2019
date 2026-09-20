@@ -1,5 +1,3 @@
-# Vishal Sharma - Senior Cloud Integration Architect & Project Manager
-
 <a href="https://www.linkedin.com/in/vishal-sharma-20a5b5317/" target="_blank">
   <img src="https://github.com/vpng2019/vpng2019-portfolio/raw/main/assets/linkedin.svg" alt="LinkedIn" width="32" height="32">
 </a>
@@ -12,7 +10,9 @@
   <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="32" height="32">
 </a>
 
-**Microsoft Certified Technology Specialist (MCTS)** with **15+ years of IT experience** in architecting, developing, and delivering scalable **cloud-based and on-premises enterprise solutions** using **Microsoft Azure and Microsoft BizTalk Server**.
+# Vishal Sharma - Senior Cloud Integration Architect & Project Manager
+
+**Microsoft Certified Technology Specialist (MCTS)** with **15+ years of IT experience** in architecting, developing, and delivering scalable cloud-based and on-premises enterprise solutions using **Microsoft Azure and Microsoft BizTalk Server**.
 
 My experience spans the **full integration delivery lifecycle** — from **business requirements, solution architecture, and technical design through development, testing, deployment, production support, and continuous improvement**.
 
