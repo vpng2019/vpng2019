@@ -12,13 +12,15 @@
 
 # Vishal Sharma - Senior Cloud Integration Architect & Project Manager
 
-**Microsoft Certified Technology Specialist (MCTS)** with **15+ years of IT experience** in architecting, developing, and delivering scalable cloud-based and on-premises enterprise solutions using **Microsoft Azure and Microsoft BizTalk Server**.
+**Microsoft Certified Technology Specialist (MCTS)** with **15+ years of IT experience** in architecting, developing, and delivering scalable cloud based and on premises enterprise solutions using **Microsoft Azure and Microsoft BizTalk Server**.
 
 Experienced across the **full integration delivery lifecycle**, from requirements and solution design through development, testing, deployment, production support, and continuous improvement.
 
+* Designed and implemented scalable integration solutions using **Microsoft Azure, BizTalk Server, and SAP**, including Logic Apps, Function Apps, Service Bus, orchestrations, XSD schemas, and XSLT maps.
+
 * Designed and delivered complex **EDI integrations using X12 and EDIFACT standards**, enabling standardized and reliable data exchange.
 
-* Led **legacy-to-Azure modernization initiatives** to transform traditional integration landscapes into scalable cloud solutions.
+* Led **legacy to Azure modernization initiatives** to transform traditional integration landscapes into scalable cloud solutions.
 
 ### Leadership & Project Delivery
 
@@ -26,7 +28,7 @@ Experienced across the **full integration delivery lifecycle**, from requirement
 
 * Successfully delivered projects across **Europe, the Middle East and India**, collaborating with international teams, clients, and stakeholders.
 
-* Led **product strategy and lifecycle activities** for an **AI-driven startup**.
+* Led **product strategy and lifecycle activities** for an AI driven startup.
   
 
 ---
@@ -60,10 +62,10 @@ Worked across **global geographies including Europe, the Middle East, and India*
 
 ## Key Highlights
 
-* **Cloud Transformation:** Led successful migrations of legacy on-premises infrastructure to Microsoft Azure, driving significant reductions in operational and infrastructure spending.
+* **Cloud Transformation:** Led successful migrations of legacy on premises infrastructure to Microsoft Azure, driving significant reductions in operational and infrastructure spending.
 * **Enterprise EDI:** Spearheaded global EDI integration projects using X12 and EDIFACT standards for major international retailers (Ahold Delhaize, Carrefour, ALDI, Costco).
-* **Enterprise Integration:** End-to-end expertise in integrating Microsoft Azure, BizTalk Server, and SAP for complex business workflows.
-* **Agile Leadership:** Managed cross-functional Agile teams (Developers, AI Engineers, QA, UI/UX), facilitating Scrum ceremonies, managing risk registers, and driving product roadmaps.
+* **Enterprise Integration:** End to end expertise in integrating Microsoft Azure, BizTalk Server, and SAP for complex business workflows.
+* **Agile Leadership:** Managed cross functional Agile teams (Developers, AI Engineers, QA, UI/UX), facilitating Scrum ceremonies, managing risk registers, and driving product roadmaps.
 
 ---
 
@@ -93,37 +95,37 @@ Worked across **global geographies including Europe, the Middle East, and India*
 
 #### **Baloise Insurance** — *Senior Integration Specialist*
 `May 2023 – Aug 2024` | *Belgium*
-* Built end-to-end integration solutions using BizTalk Server 2020, C#.NET, and SQL Server for insurance systems.
-* Migrated on-premises BizTalk infrastructure to Microsoft Azure, setting up monitoring via Application Insights.
+* Built end to end integration solutions using BizTalk Server 2020, C#.NET, and SQL Server for insurance systems.
+* Migrated on premises BizTalk infrastructure to Microsoft Azure, setting up monitoring via Application Insights.
 * Conducted code reviews, mentored engineers, and supported testing via Postman and SOAP UI.
-* Performed production deployments and successful project go-live.
+* Performed production deployments and successful project go live.
 
 #### **Puratos Food Manufacturing** — *Senior Software Professional*
 `Aug 2021 – Jan 2023` | *Belgium*
 * Engineered scalable EDI/EAI solutions using X12 and EDIFACT standards to integrate major global retailers (Ahold Delhaize, Carrefour, ALDI, Costco).
 * Architected complex BizTalk orchestrations, XSD schemas, XSLT maps, and custom XPath queries.
-* Participated in on-premises to Azure cloud migrations and provided critical post-hours incident response.
+* Participated in on premises to Azure cloud migrations and provided critical post hours incident response.
 
 #### **Abu Dhabi Distribution Company** — *Senior Consultant*
 `Jun 2019 – Jan 2021` | *UAE*
 * Translated complex utility business requirements into technical integration solutions using BizTalk 2016, C#.NET, and SQL.
 * Designed Business Rules Engine (BRE) policies, custom orchestrations, and XSLT transformations.
-* Led technical teams through SIT, UAT, client sign-offs, and final production go-live.
+* Led technical teams through SIT, UAT, client sign offs, and final production go live.
 
 #### **Emaar Hospitality** — *Senior Software Engineer*
 `May 2018 – May 2019` | *UAE*
 * Developed enterprise middleware integration applications using BizTalk Server 2016 and C#.NET.
 * Implemented integrations consuming RESTful web services and parsing complex JSON payloads.
-* Successfully delivered the project and supported production go-live.
+* Successfully delivered the project and supported production go live.
 
 #### **CSC / DXC Technology** — *Senior Software Engineer / Team Lead*
 `Feb 2017 – Oct 2017` | *India*
-* Led engineering teams through end-to-end client delivery, orchestration designs, and BRE rules deployment.
+* Led engineering teams through end to end client delivery, orchestration designs, and BRE rules deployment.
 * Developed end to end application interfaces using BizTalk Server 2016.
 
 #### **Accenture** — *Senior Software Engineer / Team Lead*
 `Jul 2013 – Jan 2017` | *India*
-* Led a 10-member delivery team for major energy clients (Motiva, Royal Dutch Shell, YASREF Refining).
+* Led a 10 member delivery team for major energy clients (Motiva, Royal Dutch Shell, YASREF Refining).
 * Engineered greenfield enterprise interfaces utilizing BizTalk Server (2010/2013), SQL Stored Procedures, and BAM.
 * Executed legacy platform migrations (BizTalk 2006 to 2010) and served as Middleware L3 Escalation SME.
 
@@ -135,7 +137,7 @@ Worked across **global geographies including Europe, the Middle East, and India*
 
 #### **Mindgate Solutions** — *IT Associate*
 `Dec 2010 – May 2011` | *India*
-* Developed C#.NET libraries, envelope schemas, and multi-bank XML generation scripts via SQL Server stored procedures.
+* Developed C#.NET libraries, envelope schemas, and multi bank XML generation scripts via SQL Server stored procedures.
 * Designed XSD schemas to store account Validation, Cheque related information of Bank users.
 
 #### **Nihilent Technologies** — *Systems Engineer*
