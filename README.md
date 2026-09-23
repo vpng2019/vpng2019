@@ -81,7 +81,7 @@ Worked across **global geographies including Europe, the Middle East, and India*
 ### 💼 Professional Experience
 
 #### **NTT Data** — *Senior Integration Cloud Specialist*
-`Jul 2025 – Mar 2026` | *India*
+`Jul 2025 – Current` | *India*
 * Designed and developed **cloud-native applications** using **Azure Logic Apps and Azure Functions**, integrating with vendors including **Walmart US, Canada and Amazon UK, Europe**.
 * Managed day-to-day delivery and stakeholder alignment for cloud integration projects.
 * Orchestrated cross-functional teams to plan and execute the migration of Azure Function Apps from Python 3.9 to 3.12.
